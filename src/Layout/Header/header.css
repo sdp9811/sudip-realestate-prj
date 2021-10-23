@@ -1,0 +1,38 @@
+
+
+
+
+.lbtn{
+      color: gold;
+      background-color: rgb(92, 139, 141);
+      border: none;
+}
+.lgt{
+     background-color: rgba(124, 104, 238, 0.692);
+     height: 0ch;
+    border: none;
+}
+
+.hclr{
+    color: gold;
+    margin-top: 20px;
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.me-auto{
+    margin-left: 400px;
+    position: relative;
+    height: 5px;
+
+}
+.nvbr{
+    width: 1400px;
+    background-color: rgba(54, 66, 54, 0.089);
+    height: 110px
+    
+}
+ .nvitm{
+     color: gold;
+     margin-bottom: 20px;
+     }

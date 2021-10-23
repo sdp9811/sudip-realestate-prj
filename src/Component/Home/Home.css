@@ -1,0 +1,38 @@
+/* .hm{
+    height: 600px;
+    width: 1200px;
+} */
+/* *{
+    background: rgba(102, 87, 87, 0.137);
+} */
+
+.blck1{
+    
+    width: 1500px;
+    height: 300px;
+}
+.btn{
+    width: 200px;
+    margin-left: 50px;
+}
+.crd{
+    padding: 10px;
+
+
+}
+.hed{
+    color: rgb(248, 10, 89);
+     margin-left: 50px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.ftr{
+    position: relative;
+    left: 0;
+    margin-bottom: 0;
+    width: 100%;
+    background-color: dimgrey;
+    height: 80px;
+    color: rgb(243, 239, 9);
+    text-align: center;
+}

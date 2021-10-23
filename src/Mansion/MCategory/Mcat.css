@@ -1,0 +1,14 @@
+.ctm{
+    margin-top: 80px;
+    padding: 50px;
+}
+.futr{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: dimgrey;
+    height: 80px;
+    color: rgb(243, 239, 9);
+    text-align: center;
+}

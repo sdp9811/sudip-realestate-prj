@@ -1,0 +1,94 @@
+{
+    "Mansion" : [{
+         "m_name": "Residence",
+         "m_id":"r01",
+         "m_img":"../../../../Image/hme1.jpeg",
+         "descrp": " your dream house  is here!",
+          "sub_cat":[{
+                "s_id": "ms01",
+                 "City": "Kolkata",
+                 "Price": "10 00 000",
+                  "sub_img": "../../../../Image/rprj2.jpeg",
+                   "sub_descrp": ""
+          },
+          {
+            "s_id": "ms02",
+                 "City": "Mumbai",
+                 "Price": "16 00 000",
+                  "sub_img": "../../../../Image/rprj3.jpeg",
+                   "sub_descrp": ""  
+          },
+          {
+            "s_id": "ms03",
+            "City": "Chennai",
+            "Price": "14 00 000",
+             "sub_img": "../../../../Image/rprj6.jpeg",
+              "sub_descrp": ""
+          }
+          ]
+        },
+        {
+        "m_name": "Commercial",
+         "m_id":"c01",
+         "m_img":"../../../../Image/nimg2.jpeg",
+         "descrp": " your dream house ",
+          "sub_cat":[{
+              "s_id": "cs01",
+            "City": "Gurgaon",
+            "Price": "10 00 000",
+             "sub_img": "../../../../Image/ngimg3.jpeg",
+              "sub_descrp": ""
+
+        },
+        {
+            "s_id": "cs02",
+                "City": "Chennai",
+                "Price": "10 00 000",
+                 "sub_img": "../../../../Image/rprj7.jpeg",
+                  "sub_descrp": ""
+        },
+        
+                  {
+                    "s_id": "cs03",
+                "City": "Mohali",
+                "Price": "13 00 000",
+                 "sub_img": "../../../../Image/nmimg4.jpeg",
+                  "sub_descrp": ""
+                  },
+                  {"s_id": "cs03",
+                    "City": "Thane",
+                    "Price": "16 00 000",
+                     "sub_img": "../../../../Image/nthanep.jpeg",
+                      "sub_descrp": ""
+    
+        }]
+        },
+       {
+        "m_name": "Upcoming Project",
+        "m_id":"u01",
+        "m_img":"../../../../Image/rprj5.jpeg",
+        "descrp": " place ",
+         "sub_cat":[{
+             "s_id": "up01",
+           "City": "Kolkata",
+           "Price": "50 00 000",
+            "sub_img": "../../../../Image/nmimg5.jpeg",
+             "sub_descrp": "" 
+       },
+       {
+        "s_id": "up02",
+        "City": "Chennai",
+        "Price": "10 00 000",
+         "sub_img": "../../../../Image/pxl.jpeg",
+          "sub_descrp": "" 
+       },
+       {
+        "s_id": "up03",
+        "City": "Mumbai",
+        "Price": "10 00 000",
+         "sub_img": "../../../../Image/pxl3.jpeg",
+          "sub_descrp": "" 
+       }]
+
+        }]
+}

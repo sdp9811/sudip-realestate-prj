@@ -1,0 +1,32 @@
+/* .container{
+    position: relative;
+    width: 200px;
+    height:100px;
+    margin-left: 400px;
+    text-align: center;
+    padding: 50px;
+
+} */
+.btn{
+    width: 100px;
+    cursor: pointer;
+    background-color: rgba(13, 9, 228, 0.932);
+}
+form{
+    border: 10px solid #96949696;
+    margin: auto;
+    padding: 20px;
+    width: 450px;
+    height: 550px;
+    background-color: lightcyan;
+}
+.lgnbtn{
+    width: 150px;
+    cursor: pointer;
+    background-color: rgba(13, 9, 228, 0.932);
+
+}
+.placeholder{
+    text-align: center;
+}
+
